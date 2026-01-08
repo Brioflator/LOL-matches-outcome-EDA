@@ -5,7 +5,7 @@ import os
 import datetime
 
 # --- CONFIGURATION ---
-API_KEY = 'RGAPI-8ff21d24-cd34-4f81-8b72-481ff0cb7c96'  # <--- PASTE YOUR API KEY HERE
+API_KEY = ''  # <--- PASTE YOUR API KEY HERE
 TARGET_MATCHES = 30000           # 30,000 matches * 10 players = 300,000 datapoints
 CSV_FILE = 'league_dataset_diamond_emerald.csv'
 START_TIME = time.time()
